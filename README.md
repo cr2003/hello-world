@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-First repository for learning pourposes
+Hi Everybody!
+
+This is my First repository for learning pourposes.
+Hope all work well!
